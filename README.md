@@ -33,4 +33,4 @@ güncellenmiş politikanın kabul edildiği anlamına gelir.
 
 ## 6. İletişim
 Her türlü soru için bizimle iletişime geçebilirsiniz:  
-[example@email.com](mailto:topal.alptekin@email.com)
+[topal.alptekin@email.com@email.com](mailto:topal.alptekin@email.com)
